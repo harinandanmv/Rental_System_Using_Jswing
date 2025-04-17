@@ -46,7 +46,7 @@ A Java-based Car Rental System built with **Java Swing** for the GUI and **JDBC*
 
 1. **Users** — Stores user info (`email`, `username`, `password`)
 2. **Cars** — Car details (`car_id`, `make`, `model`, `year`, `rental_price_per_day`)
-3. **Bookings** — Booking info (`booking_id`, `user_email`, `car_id`, dates, `status`)
+3. **Bookings** — Booking info (`booking_id`, `user_email`, `car_id`, 'dates', `status`)
 4. **Payments** — Payment data (`payment_date`, `amount`, `method`, `status`)
 
 ---
