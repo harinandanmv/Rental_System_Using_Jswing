@@ -19,7 +19,7 @@ public class RegistrationFrame extends JFrame {
         setTitle("Car Rental System - Registration");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(100, 100, 450, 350);
-        ImageIcon bgIcon = new ImageIcon("C:\\Users\\HP\\Desktop\\LAB Works\\LAB 2nd SEM\\Java\\Eclipse\\My_Project\\carrentalbg.jpeg");
+        ImageIcon bgIcon = new ImageIcon("src/resources/carrentalbg.jpeg");
         Image backgroundImage = bgIcon.getImage().getScaledInstance(450, 350, Image.SCALE_SMOOTH);
         JPanel backgroundPanel = new JPanel() {
             @Override

@@ -36,7 +36,7 @@ public class HomeFrame extends JFrame {
         setJMenuBar(menuBar);
 
         // Load and scale the background image
-        ImageIcon bgIcon = new ImageIcon("C:\\Users\\HP\\Desktop\\LAB Works\\LAB 2nd SEM\\Java\\Eclipse\\My_Project\\carrentalbg.jpeg");
+        ImageIcon bgIcon = new ImageIcon("src/resources/carrentalbg.jpeg");
         Image backgroundImage = bgIcon.getImage().getScaledInstance(450, 350, Image.SCALE_SMOOTH);
         
         // Create a background panel with custom painting
