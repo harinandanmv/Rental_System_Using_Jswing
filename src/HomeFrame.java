@@ -37,10 +37,6 @@ public class HomeFrame extends JFrame {
 
         // Load and scale the background image
         ImageIcon bgIcon = new ImageIcon("src/resources/carrentalbg.jpeg");
-<<<<<<< HEAD
-=======
-
->>>>>>> c2067e33e13c878ef0ae62f76d65a4c07643a41f
         Image backgroundImage = bgIcon.getImage().getScaledInstance(450, 350, Image.SCALE_SMOOTH);
         
         // Create a background panel with custom painting
