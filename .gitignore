@@ -1,0 +1,11 @@
+# Ignore .class files
+*.class
+
+# Ignore compiled files (e.g., .o, .so)
+*.o
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore vendor directory (for Composer dependencies)
