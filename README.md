@@ -51,12 +51,6 @@ A Java-based Car Rental System built with **Java Swing** for the GUI and **JDBC*
 
 ---
 
-## 📸 Screenshots
-
-> Add your application screenshots here once available!
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
